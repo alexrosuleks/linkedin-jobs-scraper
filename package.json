@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-jobs-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LinkedIn Jobs Scraper: Scrape public LinkedIn job search results by keyword and location: titles, companies, locations, posting dates, salaries, full descriptions, and optional company page details.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "linkedin"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
